@@ -1,0 +1,5 @@
+playwright
+pytest
+pytest-cov
+pytest-asyncio
+beautifulsoup4
